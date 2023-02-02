@@ -1,0 +1,43 @@
+
+   
+body{ font-family: 'Roboto', sans-serif;
+      margin: 0;
+   }
+   div{
+
+    background-color: white;
+    margin: 50px auto;
+    width: 1200px;
+    padding: 60px 50px;
+    border-radius: 30px;
+    box-shadow: 1px -5px 14px 11px; color: #3e3e33; 
+}
+ 
+iframe{
+   margin: 0 auto; text-align: center;
+   display: block;
+   border-radius: 30px;
+   box-shadow: 0 0 50px 0px color:#00000036;
+   color: black;
+
+}
+
+h1{
+     font-size: 50px;
+     text-transform: uppercase;
+     letter-spacing: 10px;
+     font-weight: 900;
+     color: #3f5dff;
+               
+}
+
+p {
+   font-size: 22px;
+   font-weight: 300;
+   line-height: 1.4;
+
+   }
+.color1{
+color:red;
+
+}
